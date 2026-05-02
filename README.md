@@ -38,7 +38,3 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 
-### 📊 GitHub Activity
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=DevAtomicRelease&show_icons=true&theme=slate&hide_border=true&bg_color=0D1117" alt="Vishal's GitHub stats" />
-</p>
